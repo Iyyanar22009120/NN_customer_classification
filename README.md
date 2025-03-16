@@ -97,24 +97,24 @@ with torch.no_grad():
 ```
 
 ## Dataset Information
+![image](https://github.com/user-attachments/assets/ea9b0ff0-6bf9-40c3-8c10-a748e93ed257)
 
-![image](https://github.com/user-attachments/assets/baac52da-3e7f-44f7-8b26-c15f921d0915)
 
 
 ## OUTPUT
 
 ### Confusion Matrix
+![image](https://github.com/user-attachments/assets/0159544b-684c-4334-9161-7da063f3d9e4)
 
-![image](https://github.com/user-attachments/assets/37a63c61-a26b-42a1-839f-06359a405ef1)
 
 
 ### Classification Report
+![image](https://github.com/user-attachments/assets/a2765faa-5ad2-4f69-a732-3ff0121be9fb)
 
-![image](https://github.com/user-attachments/assets/58a3889b-d0ec-4541-b167-12dd0041e7f8)
 
 ### New Sample Data Prediction
+![image](https://github.com/user-attachments/assets/bed7fc42-2bf8-4b75-a406-29d73b321d64)
 
-![image](https://github.com/user-attachments/assets/5dab49b6-597b-4a70-bbae-7286a4c9093c)
 
 ## RESULT
 Thus a neural network classification model for the given dataset is executed successfully.
